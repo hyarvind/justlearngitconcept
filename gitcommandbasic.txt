@@ -1,0 +1,13 @@
+git config --global user.name "Your Name"
+git config --global user.email "your.email@example.com"
+git init
+git status
+git add <file_name>  // files add
+git add .  /// to add folder
+git commit -m "Your commit message"
+git branch <branch_name>
+git push origin <branch_name>
+git clone <repository_url>
+git rm <file_name>
+
+ 
